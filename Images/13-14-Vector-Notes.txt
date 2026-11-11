@@ -1,0 +1,1 @@
+Editable SVG illustrations created as vector paths and named shape groups, based on the robot character. No embedded raster images. 14 changes accent color from orange to teal. These are code-authored SVG assets, not native SVG output from an image model.

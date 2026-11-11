@@ -1,0 +1,392 @@
+{
+  "primary_count": 41,
+  "gif_count": 8,
+  "svg_count": 2,
+  "assets": [
+    {
+      "id": "01",
+      "label": "机器人主参考图",
+      "file": "01-Robot-Reference-Front.png",
+      "group": "角色设定",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1371233
+    },
+    {
+      "id": "02",
+      "label": "挥手欢迎",
+      "file": "02-Robot-Wave.gif",
+      "group": "GIF",
+      "width": 512,
+      "height": 512,
+      "bytes": 301857,
+      "frames": 9,
+      "loop_duration_ms": 2220
+    },
+    {
+      "id": "03",
+      "label": "收到：点头两次",
+      "file": "03-Robot-Got-It.gif",
+      "group": "GIF",
+      "width": 512,
+      "height": 512,
+      "bytes": 277011,
+      "frames": 9,
+      "loop_duration_ms": 2120
+    },
+    {
+      "id": "04",
+      "label": "震惊反应",
+      "file": "04-Robot-Shocked.gif",
+      "group": "GIF",
+      "width": 512,
+      "height": 512,
+      "bytes": 287127,
+      "frames": 9,
+      "loop_duration_ms": 2520
+    },
+    {
+      "id": "05",
+      "label": "困了：打盹惊醒",
+      "file": "05-Robot-Sleepy.gif",
+      "group": "GIF",
+      "width": 512,
+      "height": 512,
+      "bytes": 266964,
+      "frames": 9,
+      "loop_duration_ms": 3230
+    },
+    {
+      "id": "06a",
+      "label": "宠物示例原图",
+      "file": "06a-Pet-Photo-Original.png",
+      "group": "宠物参考",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2102976
+    },
+    {
+      "id": "06",
+      "label": "猫咪鞠躬谢谢",
+      "file": "06-Pet-Thank-You.gif",
+      "group": "GIF",
+      "width": 512,
+      "height": 512,
+      "bytes": 346353,
+      "frames": 9,
+      "loop_duration_ms": 2470
+    },
+    {
+      "id": "07",
+      "label": "原创头像：困惑",
+      "file": "07-Avatar-Confused.gif",
+      "group": "GIF",
+      "width": 512,
+      "height": 512,
+      "bytes": 310124,
+      "frames": 9,
+      "loop_duration_ms": 2570
+    },
+    {
+      "id": "08",
+      "label": "咖啡冒热气",
+      "file": "08-Coffee-Steam.gif",
+      "group": "GIF",
+      "width": 512,
+      "height": 512,
+      "bytes": 358846,
+      "frames": 9,
+      "loop_duration_ms": 1980
+    },
+    {
+      "id": "09",
+      "label": "招牌灯光闪烁",
+      "file": "09-Neon-Sign.gif",
+      "group": "GIF",
+      "width": 512,
+      "height": 512,
+      "bytes": 653897,
+      "frames": 9,
+      "loop_duration_ms": 2040
+    },
+    {
+      "id": "10",
+      "label": "房间原图",
+      "file": "10-Room-Original.png",
+      "group": "标注改图",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2239738
+    },
+    {
+      "id": "11",
+      "label": "圈出花瓶",
+      "file": "11-Room-Vase-Circled.png",
+      "group": "标注改图",
+      "width": 1672,
+      "height": 941,
+      "bytes": 3468319
+    },
+    {
+      "id": "12",
+      "label": "花瓶改为深蓝色",
+      "file": "12-Room-Blue-Vase.png",
+      "group": "标注改图",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2027664
+    },
+    {
+      "id": "13",
+      "label": "机器人矢量图标",
+      "file": "13-Robot-Icon-Vector.svg",
+      "group": "SVG",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 1579
+    },
+    {
+      "id": "14",
+      "label": "矢量图标改色",
+      "file": "14-Robot-Icon-Recolored.svg",
+      "group": "SVG",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 1579
+    },
+    {
+      "id": "15",
+      "label": "连续改图起点",
+      "file": "15-Conversation-Edit-Original.png",
+      "group": "连续编辑",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2239738
+    },
+    {
+      "id": "16",
+      "label": "机器人移到右侧",
+      "file": "16-Room-Robot-Moved-Right.png",
+      "group": "连续编辑",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2097724
+    },
+    {
+      "id": "17",
+      "label": "傍晚光线",
+      "file": "17-Room-Evening-Light.png",
+      "group": "连续编辑",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2156779
+    },
+    {
+      "id": "18",
+      "label": "杯子改成白色",
+      "file": "18-Room-White-Cup.png",
+      "group": "连续编辑",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2017823
+    },
+    {
+      "id": "19",
+      "label": "普通产品示例原图",
+      "file": "19-Product-Photo-Original.png",
+      "group": "换背景",
+      "width": 1672,
+      "height": 941,
+      "bytes": 1934947
+    },
+    {
+      "id": "20",
+      "label": "窗边木桌晨光",
+      "file": "20-Product-Window-Morning.png",
+      "group": "换背景",
+      "width": 1672,
+      "height": 941,
+      "bytes": 1897075
+    },
+    {
+      "id": "21a",
+      "label": "白色摄影棚",
+      "file": "21a-Product-White-Studio.png",
+      "group": "换背景",
+      "width": 1672,
+      "height": 941,
+      "bytes": 1245844
+    },
+    {
+      "id": "21b",
+      "label": "咖啡馆背景",
+      "file": "21b-Product-Cafe.png",
+      "group": "换背景",
+      "width": 1672,
+      "height": 941,
+      "bytes": 1970103
+    },
+    {
+      "id": "21c",
+      "label": "家庭书房背景",
+      "file": "21c-Product-Home-Office.png",
+      "group": "换背景",
+      "width": 1672,
+      "height": 941,
+      "bytes": 1883249
+    },
+    {
+      "id": "21d",
+      "label": "户外花园背景",
+      "file": "21d-Product-Outdoor.png",
+      "group": "换背景",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2149805
+    },
+    {
+      "id": "22",
+      "label": "删除物体前",
+      "file": "22-Desk-Box-Before.png",
+      "group": "删除物体",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2227079
+    },
+    {
+      "id": "23",
+      "label": "删除纸盒后",
+      "file": "23-Desk-Box-Removed.png",
+      "group": "删除物体",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2007756
+    },
+    {
+      "id": "24",
+      "label": "水彩机器人",
+      "file": "24-Robot-Watercolor.png",
+      "group": "风格转换",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2846456
+    },
+    {
+      "id": "25",
+      "label": "纸雕机器人",
+      "file": "25-Robot-Layered-Paper.png",
+      "group": "风格转换",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2573610
+    },
+    {
+      "id": "26",
+      "label": "黏土机器人",
+      "file": "26-Robot-Clay.png",
+      "group": "风格转换",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2029682
+    },
+    {
+      "id": "27",
+      "label": "英文视频封面",
+      "file": "27-Video-Thumbnail-English.png",
+      "group": "封面",
+      "width": 1672,
+      "height": 941,
+      "bytes": 1692674
+    },
+    {
+      "id": "28",
+      "label": "透明底机器人贴纸",
+      "file": "28-Robot-Sticker-Transparent.png",
+      "group": "透明 PNG",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1068233
+    },
+    {
+      "id": "29",
+      "label": "机器人读书",
+      "file": "29-Robot-Reading.png",
+      "group": "系列角色",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2342895
+    },
+    {
+      "id": "30",
+      "label": "机器人做饭",
+      "file": "30-Robot-Cooking.png",
+      "group": "系列角色",
+      "width": 1672,
+      "height": 941,
+      "bytes": 1911840
+    },
+    {
+      "id": "31",
+      "label": "机器人露营",
+      "file": "31-Robot-Camping.png",
+      "group": "系列角色",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2248836
+    },
+    {
+      "id": "32",
+      "label": "原创创作者盒装公仔",
+      "file": "32-Creator-Collectible-Box.png",
+      "group": "趣味玩法",
+      "width": 1672,
+      "height": 941,
+      "bytes": 1934205
+    },
+    {
+      "id": "33",
+      "label": "猫咪面包师",
+      "file": "33-Cat-Baker-Character.png",
+      "group": "趣味玩法",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2594676
+    },
+    {
+      "id": "34",
+      "label": "机器人与猫四格漫画",
+      "file": "34-Robot-Cat-Four-Panel-Comic.png",
+      "group": "趣味玩法",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2517633
+    },
+    {
+      "id": "35",
+      "label": "咖啡杯里的温泉",
+      "file": "35-Miniature-Coffee-Hot-Spring.png",
+      "group": "想象力场景",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2377839
+    },
+    {
+      "id": "36",
+      "label": "面包上的城市",
+      "file": "36-Miniature-Bread-City.png",
+      "group": "想象力场景",
+      "width": 1672,
+      "height": 941,
+      "bytes": 3097562
+    },
+    {
+      "id": "37",
+      "label": "瓶装月光饮料",
+      "file": "37-Bottled-Moonlight-v2.png",
+      "group": "想象力场景",
+      "width": 1672,
+      "height": 941,
+      "bytes": 1917273
+    }
+  ]
+}

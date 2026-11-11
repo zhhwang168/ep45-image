@@ -1,0 +1,25 @@
+{
+  "id": "07",
+  "stem": "07-Avatar-Confused",
+  "path": "C:\\Users\\zhwan\\.codex\\generated_images\\01a1bb69-2dce-7202-9458-1e952dbeca38\\exec-4f135a0f-1d25-4245-9a90-d030262589c2.png",
+  "prompt": "Use case: stylized-concept. Create a precise EXACT 3 by 3 animation sprite sheet, NINE equal square cells without gutters, borders or grid lines, white background. Original fictional friendly adult male cartoon creator avatar, NOT a portrait of any real person: short dark hair, round black glasses, warm medium skin, navy blue casual T-shirt, clean-shaven, polished appealing 3D animation style. Waist-up view with generous headroom in all nine cells, fixed camera, same face/hair/clothes/body proportions and size throughout. Chronological left-to-right top-to-bottom: 1 neutral friendly face looking toward camera; 2 eyebrows start to furrow; 3 head slightly tilts to his left, confused; 4 a small simple orange question-mark symbol begins appearing above head; 5 larger clear orange question mark overhead and one raised eyebrow; 6 hold questioning look; 7 question mark smaller and head beginning to straighten; 8 question mark gone, nearly neutral; 9 exactly like frame 1. One question-mark symbol only when specified, no words or captions, no laptop or other props. Should read as a funny 'huh?' reaction. Keep torso and shoulders still and aligned.",
+  "animation": true,
+  "delays": [
+    450,
+    150,
+    180,
+    180,
+    450,
+    350,
+    180,
+    180,
+    450
+  ],
+  "note": "Fictional sample avatar, not Henry's likeness.",
+  "width": 512,
+  "height": 512,
+  "frames": 9,
+  "duration_ms": 2570,
+  "workflow": "Reference-guided sprite sheet + local GIF assembly",
+  "verified": true
+}

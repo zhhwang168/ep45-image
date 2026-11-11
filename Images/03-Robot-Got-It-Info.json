@@ -1,0 +1,61 @@
+{
+  "label": "收到／Got it",
+  "file": "03-Robot-Got-It.gif",
+  "width": 512,
+  "height": 512,
+  "frames": 9,
+  "loop_duration_ms": 2120,
+  "delays_ms": [
+    500,
+    150,
+    220,
+    150,
+    180,
+    150,
+    220,
+    150,
+    400
+  ],
+  "loop": "infinite",
+  "reference": "01-Robot-Reference-Front.png",
+  "foot_alignment_offsets": [
+    {
+      "x": 0,
+      "y": 0
+    },
+    {
+      "x": 8,
+      "y": 1
+    },
+    {
+      "x": 12,
+      "y": 0
+    },
+    {
+      "x": 0,
+      "y": 3
+    },
+    {
+      "x": 9,
+      "y": 3
+    },
+    {
+      "x": 13,
+      "y": 3
+    },
+    {
+      "x": 0,
+      "y": 4
+    },
+    {
+      "x": 8,
+      "y": 4
+    },
+    {
+      "x": 13,
+      "y": 4
+    }
+  ],
+  "verified": true,
+  "workflow": "Reference-guided sprite-sheet generation followed by local GIF assembly; not native GIF output."
+}

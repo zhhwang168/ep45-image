@@ -1,0 +1,61 @@
+{
+  "label": "震惊／Wait, what?!",
+  "file": "04-Robot-Shocked.gif",
+  "width": 512,
+  "height": 512,
+  "frames": 9,
+  "loop_duration_ms": 2520,
+  "delays_ms": [
+    600,
+    120,
+    100,
+    120,
+    450,
+    250,
+    180,
+    200,
+    500
+  ],
+  "loop": "infinite",
+  "reference": "01-Robot-Reference-Front.png",
+  "foot_alignment_offsets": [
+    {
+      "x": 0,
+      "y": 0
+    },
+    {
+      "x": 1,
+      "y": 0
+    },
+    {
+      "x": 1,
+      "y": 0
+    },
+    {
+      "x": 1,
+      "y": 0
+    },
+    {
+      "x": 1,
+      "y": 0
+    },
+    {
+      "x": 1,
+      "y": 0
+    },
+    {
+      "x": 1,
+      "y": 0
+    },
+    {
+      "x": 1,
+      "y": 0
+    },
+    {
+      "x": 1,
+      "y": 0
+    }
+  ],
+  "verified": true,
+  "workflow": "Reference-guided sprite-sheet generation followed by local GIF assembly; not native GIF output."
+}

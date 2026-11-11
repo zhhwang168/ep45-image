@@ -1,0 +1,24 @@
+{
+  "id": "08",
+  "stem": "08-Coffee-Steam",
+  "path": "C:\\Users\\zhwan\\.codex\\generated_images\\01a1bb69-2dce-7202-9458-1e952dbeca38\\exec-11bc2a92-f702-42e7-a4cd-5042c805e683.png",
+  "prompt": "Use case: product-mockup. Make EXACTLY NINE equal animation frames arranged as an exact 3x3 sprite sheet on a square canvas, no visible grid, no gutters, no borders, no text. Every cell contains the exact same locked-off close-up studio shot of a plain orange ceramic coffee cup with a white inside, filled with dark coffee, resting on a matching white saucer on pale warm wood. Minimal pale gray background, beautiful soft morning light. Cup, handle on viewer right, saucer, tabletop, camera, scale, shadows and background must remain ABSOLUTELY identical in all frames. Frame 1 a thin wisp of white steam rising above coffee; frames 2-8 steam slowly curls upward and drifts slightly left, dissipates and renews; frame9 matches frame1. Steam is the ONLY animated element. Leave lots of headroom above cup for steam; full cup and saucer visible in each cell. Natural realistic product photography, clear subtle visible steam against warm light-gray background. One cup in each of nine cells.",
+  "animation": true,
+  "delays": [
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220
+  ],
+  "width": 512,
+  "height": 512,
+  "frames": 9,
+  "duration_ms": 1980,
+  "workflow": "Reference-guided sprite sheet + local GIF assembly",
+  "verified": true
+}

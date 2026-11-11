@@ -1,0 +1,61 @@
+{
+  "label": "困了／Sleepy",
+  "file": "05-Robot-Sleepy.gif",
+  "width": 512,
+  "height": 512,
+  "frames": 9,
+  "loop_duration_ms": 3230,
+  "delays_ms": [
+    600,
+    250,
+    300,
+    300,
+    450,
+    500,
+    110,
+    220,
+    500
+  ],
+  "loop": "infinite",
+  "reference": "01-Robot-Reference-Front.png",
+  "foot_alignment_offsets": [
+    {
+      "x": 0,
+      "y": 0
+    },
+    {
+      "x": 1,
+      "y": 0
+    },
+    {
+      "x": 1,
+      "y": 0
+    },
+    {
+      "x": 0,
+      "y": 0
+    },
+    {
+      "x": 1,
+      "y": 0
+    },
+    {
+      "x": 1,
+      "y": 0
+    },
+    {
+      "x": 0,
+      "y": -1
+    },
+    {
+      "x": 1,
+      "y": -1
+    },
+    {
+      "x": 1,
+      "y": -1
+    }
+  ],
+  "verified": true,
+  "workflow": "Reference-guided sprite-sheet generation followed by local GIF assembly; not native GIF output."
+}
